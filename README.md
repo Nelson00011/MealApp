@@ -1,6 +1,12 @@
 # Food Meals
 Food application to chooses meals for a user to order & places them in a shopping cart. 
 
+## ScreenShot
+![image](https://user-images.githubusercontent.com/112737682/230500232-208b43d8-2d63-4ceb-a919-cc664ea4a3a8.png)
+
+## Technology Stack
+Front-End: HTML5, CSS, REACT, Node.js
+
 
 ## Run Code (Environment)
 ### Front-End Helpful Hints (for Node.js environment)
@@ -22,3 +28,5 @@ Food application to chooses meals for a user to order & places them in a shoppin
 ```
 > npm run start
 ```
+
+- [CSS modules](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/) to allow styles to be treated like objects.
