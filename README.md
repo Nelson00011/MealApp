@@ -4,6 +4,13 @@ Food application to chooses meals for a user to order & places them in a shoppin
 
 ## Run Code (Environment)
 ### Front-End Helpful Hints (for Node.js environment)
+- confirm that config is up to date:
+
+```
+> node -v
+> npm -v
+> git --version
+```
 
 - Initial package.json & install dependencies (localhost: 3000):
 ```
