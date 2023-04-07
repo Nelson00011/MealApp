@@ -29,4 +29,5 @@ Front-End: HTML5, CSS, REACT, Node.js
 > npm run start
 ```
 
+## Resources & Helpful Hints:
 - [CSS modules](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/) to allow styles to be treated like objects.

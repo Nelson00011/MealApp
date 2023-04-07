@@ -36,7 +36,12 @@ return (
     <section className={classes.meals}>
       <Card>
         <ul>
-            {seafood.map((c)=> <MealItem key={c.id} name={c.name} description={c.description} price={c.price}/>)}
+            {seafood.map((c)=> <MealItem 
+            key={c.id} 
+            id={c.id}
+            name={c.name} 
+            description={c.description} 
+            price={c.price}/>)}
         </ul>
         </Card>
     </section>
