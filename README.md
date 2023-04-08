@@ -1,4 +1,4 @@
-# Food Meals
+# Meals App
 Seafood application that allows one to choose a series of appetizers and meals from a menu. The Cart, displayed with a modal, includes an itemized list that calculates the meal total. Adding and subtracting meals from cart is done with ease.
 
 ## ScreenShot
