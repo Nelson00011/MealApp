@@ -5,7 +5,7 @@
     max-height: 20rem;
     overflow: auto;
     max-height: 20rem;
-    overflow: scroll;
+    overflow: auto;
   }
   
   .total {
@@ -45,4 +45,11 @@
   .actions .button {
     background-color: rgba(56,56,56);
     color: white;
+  }
+
+  .price {
+    margin-top: 0.25rem;
+    font-weight: bold;
+    color: #00122c;
+    font-size: 1.25rem;
   }

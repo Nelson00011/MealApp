@@ -8,25 +8,25 @@ const seafood = [
       id: 'm1',
       name: 'Edamame',
       description: 'Finest green veggies',
-      price: 22.99,
+      price: 16.50,
     },
     {
       id: 'm2',
       name: 'Salmon Sushi',
-      description: 'A german specialty!',
-      price: 16.5,
+      description: 'A japanese specialty!',
+      price: 22.99,
     },
     {
       id: 'm3',
       name: 'Rock Fried Calamari',
       description: 'American, crispy, meaty',
-      price: 12.99,
+      price: 18.99,
     },
     {
       id: 'm4',
       name: 'Cucumber Salad',
       description: 'Healthy...and green...',
-      price: 18.99,
+      price: 12.99,
     },
   ];
 

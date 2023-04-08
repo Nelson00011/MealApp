@@ -6,7 +6,7 @@ import Cart from './components/Cart/Cart';
 import CartProvider from './store/cartProvider';
 
 function App() {
-  const [showCart, setShowCart] = useState(true);
+  const [showCart, setShowCart] = useState(false);
 
   const showCartHandler = () => {
     setShowCart(true);

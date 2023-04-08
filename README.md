@@ -2,7 +2,10 @@
 Food application to chooses meals for a user to order & places them in a shopping cart. 
 
 ## ScreenShot
-![image](https://user-images.githubusercontent.com/112737682/230500232-208b43d8-2d63-4ceb-a919-cc664ea4a3a8.png)
+![image](https://user-images.githubusercontent.com/112737682/230701203-a461f183-294f-4198-9816-ddb80ccdf695.png)
+
+
+![image](https://user-images.githubusercontent.com/112737682/230701232-4115fcc9-1784-4860-8c16-1ff74889cea2.png)
 
 ## Technology Stack
 Front-End: HTML5, CSS, REACT, Node.js
