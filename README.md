@@ -31,6 +31,19 @@ Front-End: HTML5, CSS, REACT, Node.js
 ```
 > npm run start
 ```
+### Back-End Helpful Hints (for Node.js environment)
+- Configure Firebase Realtime Database
+- Update the Firebase Rules for Fetch Testing:
+```
+{
+  "rules": {
+    ".read": true,
+    ".write": false
+  }
+} 
+```
+
+
 
 ## Resources & Helpful Hints:
 - [CSS modules](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/) to allow styles to be treated like objects.
