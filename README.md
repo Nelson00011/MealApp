@@ -1,5 +1,5 @@
 # Meal App
-Seafood application that allows one to choose a series of appetizers and meals from a menu. The Cart, displayed with a modal, includes an itemized list that calculates the meal total. Firebase is used for the database calls. Adding and subtracting meals from cart is done with ease.
+Seafood application that allows one to choose a series of appetizers and meals from a menu. The Cart, displayed with a modal, includes an itemized list that calculates the meal total. Firebase Realtime Database is used. Adding and subtracting meals from cart is done with ease.
 
 ## ScreenShot
 ![image](https://user-images.githubusercontent.com/112737682/230701203-a461f183-294f-4198-9816-ddb80ccdf695.png)
@@ -9,6 +9,7 @@ Seafood application that allows one to choose a series of appetizers and meals f
 
 ## Technology Stack
 Front-End: HTML5, CSS, REACT, Node.js
+Back-End: Firebase
 
 
 ## Run Code (Environment)
