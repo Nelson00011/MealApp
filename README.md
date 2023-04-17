@@ -32,7 +32,7 @@ Back-End: Firebase
 ```
 > npm run start
 ```
-### Back-End Helpful Hints (for Node.js environment)
+### Back-End Helpful Hints (Node.js / Firebase)
 - Configure Firebase Realtime Database
 - Update the Firebase Rules for Fetch Testing:
 ```
@@ -43,8 +43,10 @@ Back-End: Firebase
   }
 } 
 ```
-
-
+- Install toolkit for Redux & toolkit (for future project):
+```
+> npm install @reduxjs/toolkit
+```
 
 ## Resources & Helpful Hints:
 - [CSS modules](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/) to allow styles to be treated like objects.
